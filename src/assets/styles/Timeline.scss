@@ -1,0 +1,48 @@
+.vertical-timeline span {
+    color: white;
+    font-family: 'Courier Prime', monospace;
+}
+
+.vertical-timeline p {
+    color: white;    
+}
+
+.vertical-timeline-element p {
+    color: rgb(216, 215, 215);    
+}
+
+p.skills {
+    color: white;
+    font-family: monospace;
+    font-size: smaller;
+}
+
+.vertical-timeline-element h3 {
+    color: white;
+}
+
+.vertical-timeline-element h4 {
+    color: white;
+}
+
+.vertical-timeline-element span {
+    color: white;
+}
+
+.vertical-timeline-element .vertical-timeline-element-date {
+    color: white;
+}
+
+.vertical-timeline-element-content {    
+    background-image: linear-gradient(to right, rgb(88, 44, 118), rgb(36, 18, 48));
+}
+
+.svg-inline--fa {
+    color: white;
+}
+
+@media screen and (max-width: 1170px) {
+    .vertical-timeline-element .vertical-timeline-element-date {
+        color: white;
+    }
+}
